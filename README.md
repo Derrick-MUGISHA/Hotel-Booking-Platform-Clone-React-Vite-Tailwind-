@@ -82,7 +82,7 @@ Source images from Unsplash or Pexels (free-to-use), not from booking.com direct
 
 ## 7. Deliverables
 
-1. GitHub repository — organized by feature/component, with a clear README (setup steps, scripts, folder structure)
+1. GitHub repository organized by feature/component, with a clear README (setup steps, scripts, folder structure)
 2. Live deployed link (Vercel, Netlify, or GitHub Pages)
 3. Short written summary: component list + a simple routing map
 
@@ -90,7 +90,7 @@ Source images from Unsplash or Pexels (free-to-use), not from booking.com direct
 
 A genuinely pixel-accurate, fully responsive clone with three full pages usually takes a stronger cohort 2–3 focused days. If today is a hard deadline, scope today to a deployable MVP and treat the rest as Day 2:
 
-**Today — deploy by end of day:**
+**Today deploy by end of day:**
 - Vite + Tailwind + React Router scaffold
 - Home page fully built and responsive (header, hero search, trending grid, footer)
 - Routing skeleton in place: Home → Search → Property Details (Search/Details pages can be placeholder/skeleton content)
